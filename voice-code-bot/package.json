@@ -10,6 +10,8 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
+    "react-textarea-autosize": "^8.5.9",
+    "voice-code-bot": "file:..",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

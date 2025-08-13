@@ -3,7 +3,7 @@ import requests
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from dotenv import load_dotenv  # <-- add this
-
+# command to run python voice-code-bot/src/Backend/app.py
 load_dotenv()  # <-- add this
 
 app = Flask(__name__)

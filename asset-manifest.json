@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/voice-code-bot/static/css/main.e1595c5a.css",
-    "main.js": "/voice-code-bot/static/js/main.74fe2c93.js",
-    "static/js/453.eb097131.chunk.js": "/voice-code-bot/static/js/453.eb097131.chunk.js",
-    "index.html": "/voice-code-bot/index.html",
-    "main.e1595c5a.css.map": "/voice-code-bot/static/css/main.e1595c5a.css.map",
-    "main.74fe2c93.js.map": "/voice-code-bot/static/js/main.74fe2c93.js.map",
-    "453.eb097131.chunk.js.map": "/voice-code-bot/static/js/453.eb097131.chunk.js.map"
+    "main.css": "/Talk-with-me-/static/css/main.e1595c5a.css",
+    "main.js": "/Talk-with-me-/static/js/main.01794bf6.js",
+    "static/js/453.eb097131.chunk.js": "/Talk-with-me-/static/js/453.eb097131.chunk.js",
+    "index.html": "/Talk-with-me-/index.html",
+    "main.e1595c5a.css.map": "/Talk-with-me-/static/css/main.e1595c5a.css.map",
+    "main.01794bf6.js.map": "/Talk-with-me-/static/js/main.01794bf6.js.map",
+    "453.eb097131.chunk.js.map": "/Talk-with-me-/static/js/453.eb097131.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1595c5a.css",
-    "static/js/main.74fe2c93.js"
+    "static/js/main.01794bf6.js"
   ]
 }
